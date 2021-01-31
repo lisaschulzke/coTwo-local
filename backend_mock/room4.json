@@ -1,0 +1,27 @@
+{
+    "title": "H 2.15",
+    "subtitle": "Klasse 2b",
+
+    "day": [
+        {
+            "timestamp": 39479023,
+            "ppm": 983
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 1937
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 1833
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 836
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 581
+        }
+    ]
+}

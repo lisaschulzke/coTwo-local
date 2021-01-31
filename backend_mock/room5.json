@@ -1,0 +1,75 @@
+{
+    "title": "H 2.16",
+    "subtitle": "Klasse 3a",
+
+    "day": [
+        {
+            "timestamp": 1610575517,
+            "ppm": 1843
+        },
+        {
+            "timestamp": 1610574917,
+            "ppm": 1143
+        },
+        {
+            "timestamp": 1610574317,
+            "ppm": 843
+        },
+        {
+            "timestamp": 1610573717,
+            "ppm": 643
+        },
+        {
+            "timestamp": 1610573117,
+            "ppm": 782
+        },
+        {
+            "timestamp": 1610572517,
+            "ppm": 719
+        },
+        {
+            "timestamp": 1610571917,
+            "ppm": 563
+        },
+        {
+            "timestamp": 1610571317,
+            "ppm": 398
+        },
+        {
+            "timestamp": 1610570717,
+            "ppm": 379
+        },
+        {
+            "timestamp": 1610570117,
+            "ppm": 475
+        },
+        {
+            "timestamp": 1610569517,
+            "ppm": 927
+        },
+        {
+            "timestamp": 1610568917,
+            "ppm": 625
+        },
+        {
+            "timestamp": 1610568317,
+            "ppm": 1298
+        },
+        {
+            "timestamp": 1610567717,
+            "ppm": 1734
+        },
+        {
+            "timestamp": 1610567117,
+            "ppm": 592
+        },
+        {
+            "timestamp": 1610566517,
+            "ppm": 732
+        },
+        {
+            "timestamp": 1610565917,
+            "ppm": 982
+        }
+    ]
+}

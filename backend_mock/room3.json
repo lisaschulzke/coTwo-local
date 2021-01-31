@@ -1,0 +1,27 @@
+{
+    "title": "H 2.14",
+    "subtitle": "Lehrerzimmer",
+
+    "day": [
+        {
+            "timestamp": 39479023,
+            "ppm": 2398
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 1373
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 1237
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 517
+        },
+        {
+            "timestamp": 39479023,
+            "ppm": 401
+        }
+    ]
+}
